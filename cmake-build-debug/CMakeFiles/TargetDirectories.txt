@@ -1,0 +1,3 @@
+/home/lks/Desktop/Repo/PEGA-PLOC/C++/cmake-build-debug/CMakeFiles/PriCT.dir
+/home/lks/Desktop/Repo/PEGA-PLOC/C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lks/Desktop/Repo/PEGA-PLOC/C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

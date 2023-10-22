@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/PriCT.dir/main.cpp.o -o PriCT  /usr/lib/x86_64-linux-gnu/libgmp.so 
